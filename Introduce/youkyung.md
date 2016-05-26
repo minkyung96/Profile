@@ -1,13 +1,13 @@
 +Name(KO) : 최유경
 +
-*+Name(US) : YoukyungChoi
+*Name(US) : YoukyungChoi
 +
-*+Age : 23
+*Age : 23
 +
-*+E-mail : invictus58@gmail.com
+*E-mail : invictus58@gmail.com
 +
-*+Nationality : Korea
+*Nationality : Korea
 +
-*+University : KOREATECH
+*University : KOREATECH
 +
-*+Major : Computer Science Engineering
+*Major : Computer Science Engineering
