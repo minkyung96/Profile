@@ -1,8 +1,13 @@
-##**Park jae woo** 
+Name(KO) : 박재우
 
-  - First Name : jae woo
-  - Last Name : Park
-  - Age : 23
-  - Nationality : Republic of Korea 
-  - University : Korea University of Technology and Education 
-  - E-mail : qwdqwd910@naver.com
+Name(US) : jaewoo park
+
+Age : 23
+
+E-mail : qwdqwd910@gmail.com
+
+Nationality : Republic of Korea
+
+University : KOREATECH
+
+Major : Computer Science Engineering
