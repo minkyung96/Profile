@@ -12,7 +12,7 @@
 ######판교지역 개발자 네트워크 PangyoParty [의장]
 ######Startup Team_Abiz [Android Developer]
 ######BCSD Lab [Networking Role]
-######Startup ABIZ Co-Founder
+######Startup ABIZ Co-Founder
 ######스터디노트 Android Developer / CTO
 
 
@@ -38,7 +38,7 @@
 - [2015.03~2015.04] MIT OpenCourseWare Xamarin DV
 - [2015.05~] Naver D2 Campus Partner
 - [2015.06~2016.05] IN-P-NITE 천안 대학생 연합동아리 창립자/대표
-- [2015.06~2016.07] 미래창조과학부 Software Maestro 6기 연수생
+- [2015.06~2016.07] 미래창조과학부 Software Maestro 6기 연수생 / 최종 기술 인증자
 - [2015.09~2016.03] LG Social Campaigner 1기
 - [2015.10~] 판교지역 개발자 네트워크 PangyoParty 창립/의장
 - [2015.12~] Startup ABIZ Co-Founder
