@@ -10,7 +10,7 @@
 * Grade : Junior
 
 ##English Proficiency
-* TOEIC 860
+* TOEIC 880
 * TOEFL(IBT) 83
 * TOEFL(ITP) 560
 
