@@ -26,7 +26,7 @@
 - **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/Chanhyeok.md)** - 컴퓨터공학부 12학번
 - **[최선문](https://github.com/BCSDLab/Profile/blob/master/Introduce/Seonmun.md)** - 컴퓨터공학부 14학번
 - **[최유경](https://github.com/BCSDLab/Profile/blob/master/Introduce/youkyung.md)** - 컴퓨터공학부 13학번
--  **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Introduce/Haneul.md)** - 컴퓨터공학부 12학번 
+- **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Introduce/Haneul.md)** - 컴퓨터공학부 12학번 
 - **[김진수](https://github.com/BCSDLab/Profile/blob/master/Introduce/Jinsu.md)** - 메카트로닉스공학부 12학번
 - **[김용규]()** - 컴퓨터공학부 13학번 -
 - **[정태훈]()** - 컴퓨터공학부 15학번 -
@@ -38,3 +38,5 @@
 - **[허수윤]()** - 컴퓨터공학부 16학번 -
 - **[우정연]()** - 컴퓨터공학부 15학번 -
 - **[김민경]()** - 컴퓨터공학부 15학번 -
+- **[손채연]()** - 컴퓨터공학부 16학번 -
+- **[한주현]()** - 컴퓨터공학부 16학번 -
